@@ -1,0 +1,83 @@
+.colors {
+    border: 1px solid blue;
+    position: relative;
+    display: inline-block;
+    width: 500px;
+  }
+  .colors {
+    color: white;
+    width: 100%;
+  }
+  .fonts {
+    border: 1px solid blue;
+    
+  }
+  .TextStyle {
+    border: 1px solid  blue;
+    
+  }
+  .Aqua {
+    background-color: aqua;
+    text-align: center;
+    margin: 20px;
+    width: 32%;
+    display: inline-block;
+  }
+  .DarkRed {
+    background-color: darkred;
+    text-align: center;
+    margin: 20px;
+    width: 32%;
+    display: inline-block;
+  }
+  .DeepPink {
+    background-color: deeppink;
+    text-align: center;
+    margin: 20px;
+    width: 32%;
+    display: inline-block;
+  }
+  .DimGrey {
+    background-color: dimgrey;
+    text-align: center;
+    margin: 20px;
+    width: 32%;
+    display: inline-block;
+  }
+  .MediumBlue {
+    background-color: mediumblue;
+    text-align: center;
+    margin: 20px;
+    width: 32%;
+    display: inline-block;
+  }
+  .Payprus {
+    display: inline-block;
+    width: 35%;
+    margin: 20px;
+  }
+  .Georgia {
+    display: inline-block;
+    width: 35%;
+    margin: 20px;
+  }
+  .monospace {
+    display: inline-block;
+    width: 35%;
+    margin: 20px;
+  }
+  .MainPage, .Subheading, .Paragraph {
+    margin: 20px;
+  }
+  #P {
+    font-weight: bold;
+  }
+  .Regular {
+    font-weight: normal;
+  }
+  .Bold {
+    font-weight: bold;
+  }
+  .Italic {
+    font-family: italic;
+  }
